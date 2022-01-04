@@ -1,0 +1,28 @@
+﻿  дфи.cpp
+C:\Users\ASUS\Desktop\odm\lab2\дфи\дфи\дфи.cpp(23,30): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\ASUS\Desktop\odm\lab2\дфи\дфи\дфи.cpp(39,25): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\ASUS\Desktop\odm\lab2\дфи\дфи\дфи.cpp(55,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\Desktop\odm\lab2\дфи\дфи\дфи.cpp(64,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\Desktop\odm\lab2\дфи\дфи\дфи.cpp(79,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\Desktop\odm\lab2\дфи\дфи\дфи.cpp(94,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\Desktop\odm\lab2\дфи\дфи\дфи.cpp(110,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\Desktop\odm\lab2\дфи\дфи\дфи.cpp(136,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\Desktop\odm\lab2\дфи\дфи\дфи.cpp(137,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\Desktop\odm\lab2\дфи\дфи\дфи.cpp(138,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\Desktop\odm\lab2\дфи\дфи\дфи.cpp(147,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\Desktop\odm\lab2\дфи\дфи\дфи.cpp(161,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\Desktop\odm\lab2\дфи\дфи\дфи.cpp(162,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\Desktop\odm\lab2\дфи\дфи\дфи.cpp(170,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\Desktop\odm\lab2\дфи\дфи\дфи.cpp(183,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\Desktop\odm\lab2\дфи\дфи\дфи.cpp(184,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\Desktop\odm\lab2\дфи\дфи\дфи.cpp(190,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\Desktop\odm\lab2\дфи\дфи\дфи.cpp(44,6): warning C4102: start: неиспользованная метка
+  дфи.vcxproj -> C:\Users\ASUS\Desktop\odm\lab2\дфи\Debug\дфи.exe
